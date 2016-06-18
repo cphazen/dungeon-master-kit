@@ -1,6 +1,6 @@
 # Dungeon-Master-Kit
 
-This Kit contains all the material needed to be a Dungeon Master. 
+This kit contains all the material needed to be a Dungeon Master. 
 
 ## TODO
 
@@ -12,3 +12,7 @@ This Kit contains all the material needed to be a Dungeon Master.
 - [ ] Story
 - [ ] Name Generator
 - [ ] Foe Generator
+
+## References
+
+https://dnd.wizards.com/articles/features/basicrules?x=dnd/basicrules
