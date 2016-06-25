@@ -49,7 +49,7 @@ Inn Owner, southern accent, car salesman
 
 He built the Inn and works with the mayor and his wife to kidnap and torture the children into using dark magic. Wants to use the undead as an attraction for tourist.
 
-#### Wenale Wilbrand
+#### Manric Wilbrand
 
 General Store Owner, horse voice, dry, direct
 
@@ -61,7 +61,7 @@ He and his wife Lieza are into BDSM and have chains and whips. People are suspic
 
 Mother of missing child, gossip, worried
 
-She has a boy and a girl, Tye and Gala. Tye went missing several nights ago. Gala will disappear the first nights. She gossips about everyone, partly to deal with her loss, and warns the adventures about listening to Manric.
+She has a boy and a girl, Elirc and Gala (7). Tye went missing several nights ago. Gala will disappear the first nights. She gossips about everyone, partly to deal with her loss, and warns the adventures about listening to Manric.
 
 Gossips about
 - Arranged marriage between mayor and wife
@@ -84,7 +84,7 @@ Mayors wife and witch, pompous
 
 Dark witch that sold her soul to the devil. Her secret goal is to mind control everyone into supported the devil. She has most the control over the undead. She and Lancel pretend she is bed ridden in order for her to spend time converting and kidnapping.
 
-#### Manric Isenbowe
+#### Wincil Isenbowe
 
 Crazy Man, crackle-y, rough, energetic
 
