@@ -49,13 +49,13 @@ Inn Owner, southern accent, car salesman
 
 He built the Inn and works with the mayor and his wife to kidnap and torture the children into using dark magic. Wants to use the undead as an attraction for tourist.
 
-#### Manric Wilbrand
+#### Melric Wilbrand
 
 General Store Owner, horse voice, dry, direct
 
 Been there forever. Comes off poorly, and has issues with Ian and the mayor for trying to make him leave. They want a better face for the general store for tourist.
 
-He and his wife Lieza are into BDSM and have chains and whips. People are suspicious of him for the ocational screams from his house and for keeping to himself.
+He and his wife Lieza are into BDSM and have chains and whips. People are suspicious of him for the occasional screams from his house and for keeping to himself.
 
 #### Serie Andoc
 
@@ -102,7 +102,7 @@ Teacher, compassionate, insecure
 
 She is a mage, but keeps that private in fear that people will hate her. She loves education and her children. Not sure who is doing it.
 
-#### Selbra Spellspeaker
+#### Selebra Spellspeaker
 
 Mystic, scatter brained, dramatic
 
