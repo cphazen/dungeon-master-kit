@@ -1,11 +1,13 @@
 18 Coutney
 17 Diana
 10 Big
-7 Small 
+7 Small
 
 11 Algerando
-9 Zach
 2 Tyler
+
+7 Guard
+5 Zach
 
 
 
