@@ -20,7 +20,7 @@ Rouge, the , wood elf,
 
 History of bad, but trying to be kinda good. Mentors Legolas
 
-## Courtney - Hlin Romanahiem
+## Courtney - Hlin Rumnaheim
 
 Lawful, cries when anyone is evil, Clumsy.
 
